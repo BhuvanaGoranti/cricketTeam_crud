@@ -1,0 +1,7 @@
+###
+
+get http://localhost:3000/players/
+
+###
+
+get get http://localhost:3000/players/1
